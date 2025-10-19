@@ -28,17 +28,7 @@ O objetivo do trabalho é apoiar uma iniciativa de uma ONG dedicada à promoçã
 ---
 
 ## Estrutura do Projeto
-project-root/
-├── README.md # Este ficheiro
-├── Relatorio.pdf # Relatório final do trabalho
-├── KNIME.zip # Ficheiros KNIME do projeto
-├── files/
-│ ├── imported/
-│ │ ├── APIGoogleScripts/ # Código Google Apps Script para criar XLSX a partir de Google Sheets
-│ │ ├── municipios_inscritos.xlsx # Ficheiro com dados de municípios
-│ │ └── Inscrição de Cientistas (Responses).xlsx # Ficheiro com dados de cientistas
-│ └── exported/ # Ficheiros exportados após o ETL (JSON, XML, XLSX)
-│ │ ├── PowerBI/ # Gráficos produzidos no PowerBI
-│ │ ├── XML # Pasta com ficheiros XML
-│ │ ├── Rejected # Pasta com ficheiros com linhas eliminadas pelos filtros
-│ │ └──FinalResult.xlsx # Ficheiro excel 
+- **files/imported/**: dados de entrada (municipios, cientistas e scripts).  
+- **files/exported/**: resultados do ETL (JSON, XML, Excel), gráficos e ficheiros rejeitados.  
+- **KNIME.zip**: workflows utilizados para todas as etapas do ETL.  
+- **Relatorio.pdf**: documento final do trabalho.

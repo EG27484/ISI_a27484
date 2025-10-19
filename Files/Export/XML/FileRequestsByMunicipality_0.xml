@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Itens xmlns:ns="http://www.knime.org/json2xml/originalKey/">
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Abrantes</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Aguiar da Beira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Alandroal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Albergaria-a-Velha</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Albufeira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Alcanena</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Alcobaça</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Alcochete</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Alcoutim</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Alcácer do Sal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Alenquer</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Alfândega da Fé</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Alijó</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Aljezur</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Aljustrel</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Almada</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Almeida</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Almeirim</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Almodôvar</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Alpiarça</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Alter do Chão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Alvaiázere</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Alvito</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Amadora</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Amarante</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Amares</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Anadia</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Angra do Heroísmo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Ansião</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Arcos de Valdevez</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Arganil</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Armamar</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Arouca</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Arraiolos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Arronches</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Arruda dos Vinhos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Aveiro</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Avis</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Azambuja</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Baião</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Barcelos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Barrancos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Barreiro</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Batalha</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Beja</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Belmonte</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Benavente</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Bombarral</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Borba</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Boticas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Braga</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Bragança</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Cabeceiras de Basto</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Cadaval</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Caldas da Rainha</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Calheta (Açores)</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Calheta (Madeira)</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Caminha</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Campo Maior</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Cantanhede</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Carrazeda de Ansiães</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Carregal do Sal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Cartaxo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Cascais</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Castanheira de Pêra</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Castelo Branco</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Castelo de Paiva</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Castelo de Vide</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Castro Daire</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Castro Marim</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Castro Verde</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Celorico da Beira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Celorico de Basto</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Chamusca</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Chaves</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Cinfães</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Coimbra</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Condeixa-a-Nova</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Constância</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Coruche</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Corvo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Covilhã</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Crato</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Cuba</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Câmara de Lobos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Elvas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Entroncamento</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Espinho</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Esposende</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Estarreja</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Estremoz</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Fafe</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Faro</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Felgueiras</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Ferreira do Alentejo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Ferreira do Zêzere</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Figueira da Foz</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Figueira de Castelo Rodrigo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Figueiró dos Vinhos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Fornos de Algodres</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Freixo de Espada à Cinta</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Fronteira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Funchal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Fundão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Gavião</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Golegã</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Gondomar</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Gouveia</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Grândola</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Guarda</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Guimarães</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Góis</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Horta</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Idanha-a-Nova</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Lagoa (Algarve)</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Lagoa (Açores)</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Lagos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Lajes das Flores</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Lajes do Pico</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Lamego</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Leiria</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Lisboa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Loulé</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Loures</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Lourinhã</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Lousada</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Lousã</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Macedo de Cavaleiros</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Machico</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Madalena</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Mafra</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Maia</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Mangualde</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Manteigas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Marco de Canaveses</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Marinha Grande</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Marvão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Matosinhos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Mação</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Mealhada</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Melgaço</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Mesão Frio</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Mira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Miranda do Corvo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Miranda do Douro</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Mirandela</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Mogadouro</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Moimenta da Beira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Moita</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Monchique</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Mondim de Basto</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Monforte</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Montalegre</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Montemor-o-Novo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Montemor-o-Velho</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Montijo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Monção</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Mora</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Mortágua</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Moura</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Mourão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Murtosa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Murça</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Mértola</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Mêda</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Nazaré</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Nelas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Nisa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Nordeste</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Odemira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Odivelas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Oeiras</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Oleiros</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Olhão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Oliveira de Azeméis</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Oliveira de Frades</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Oliveira do Bairro</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Oliveira do Hospital</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Ourique</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Ourém</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Ovar</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Palmela</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Pampilhosa da Serra</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Paredes</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Paredes de Coura</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Paços de Ferreira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Pedrógão Grande</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Penacova</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Penafiel</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Penalva do Castelo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Penamacor</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Penedono</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Penela</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Peniche</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Peso da Régua</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Pinhel</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Pombal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Ponta Delgada</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Ponta do Sol</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Ponte da Barca</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Ponte de Lima</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Ponte de Sor</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Portalegre</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Portel</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Portimão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Porto</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Porto Moniz</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Porto Santo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Porto de Mós</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Povoação</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Praia da Vitória</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Proença-a-Nova</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Póvoa de Lanhoso</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Póvoa de Varzim</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Redondo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Reguengos de Monsaraz</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Resende</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Ribeira Brava</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Ribeira Grande</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Ribeira de Pena</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Rio Maior</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Sabrosa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Sabugal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Salvaterra de Magos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Santa Comba Dão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Santa Cruz</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Santa Cruz da Graciosa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Santa Cruz das Flores</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Santa Maria da Feira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Santa Marta de Penaguião</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Santana</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Santarém</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Santiago do Cacém</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Santo Tirso</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Sardoal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Seia</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Seixal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Sernancelhe</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Serpa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Sertã</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Sesimbra</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Setúbal</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Sever do Vouga</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Silves</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Sines</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Sintra</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Sobral de Monte Agraço</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Soure</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Sousel</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Sátão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>São Brás de Alportel</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>São João da Madeira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>São João da Pesqueira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>São Pedro do Sul</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>São Roque do Pico</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>São Vicente</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Tabuaço</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Tarouca</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Tavira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Terras de Bouro</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Tomar</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Tondela</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Torre de Moncorvo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Torres Novas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Torres Vedras</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Trancoso</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Trofa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Tábua</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Vagos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Vale de Cambra</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Valença</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Valongo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Valpaços</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Velas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Vendas Novas</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Viana do Alentejo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Viana do Castelo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Beja</Distrito>
+        <Municipio>Vidigueira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Vieira do Minho</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Vila Flor</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Lisboa</Distrito>
+        <Municipio>Vila Franca de Xira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Vila Franca do Campo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Santarém</Distrito>
+        <Municipio>Vila Nova da Barquinha</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Vila Nova de Cerveira</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Vila Nova de Famalicão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Guarda</Distrito>
+        <Municipio>Vila Nova de Foz Côa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Vila Nova de Gaia</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Vila Nova de Paiva</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Vila Nova de Poiares</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Vila Pouca de Aguiar</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Vila Real</Distrito>
+        <Municipio>Vila Real</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Vila Real de Santo António</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Vila Velha de Ródão</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Vila Verde</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Vila Viçosa</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Castelo Branco</Distrito>
+        <Municipio>Vila de Rei</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Vila do Bispo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Vila do Conde</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Vila do Porto</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Vimioso</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Vinhais</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Viseu</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Vizela</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Vouzela</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Águeda</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Évora</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>Ílhavo</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+    <item>
+        <Distrito>Leiria</Distrito>
+        <Municipio>Óbidos</Municipio>
+        <TotalAtividadesPedidas ns:originalKey="Total Atividades Pedidas">1</TotalAtividadesPedidas>
+    </item>
+</Itens>

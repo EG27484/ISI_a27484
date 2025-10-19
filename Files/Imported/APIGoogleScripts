@@ -1,0 +1,30 @@
+function exportAsExcelXLSX() {
+  var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
+  var fileId = spreadsheet.getId();
+  var fileName = spreadsheet.getName() + ".xlsx"; // Nome do ficheiro Excel
+
+  // Exporte  spreadsheet as XLSX via Drive API
+  var url = "https://www.googleapis.com/drive/v3/files/" + fileId + "/export?mimeType=application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
+  var options = {
+    headers: {
+      "Authorization": "Bearer " + ScriptApp.getOAuthToken()
+    },
+    muteHttpExceptions: true
+  };
+
+  var response = UrlFetchApp.fetch(url, options);
+  var excelBlob = response.getBlob().setName(fileName);
+
+  // Destiny Folder
+  var folder = DriveApp.getFolderById("1CojjeJkpDxxi_D37Qdj_L3wfgCthV1vi");
+
+  // Search file with the same name
+  var files = folder.getFilesByName(fileName);
+  while (files.hasNext()) {
+    var file = files.next();
+    file.setTrashed(true); // move to trash the old file
+  }
+
+  // create new file
+  folder.createFile(excelBlob);
+}

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Itens>
+    <item>
+        <Distrito>Aveiro</Distrito>
+        <Municipio>São João da Madeira</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Colheta (Açores)</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Corvo</Municipio>
+        <NomeCompletoList>3</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Lagoa (Açores)</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Praia da Vitória</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Açores</Distrito>
+        <Municipio>Vila da Porto</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Barcelos</Municipio>
+        <NomeCompletoList>7</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Cabeceiras da Basto</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Fafe</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Póvoa da Lanhoso</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Braga</Distrito>
+        <Municipio>Vila Nova da Famalicão</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Bragança</Distrito>
+        <Municipio>Mirandela</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Coimbra</Distrito>
+        <Municipio>Figueira da Foz</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Lagoa (Algarve)</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Faro</Distrito>
+        <Municipio>Vila Real da Santo António</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Colheta (Madeira)</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Câmara da Lobos</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Madeira</Distrito>
+        <Municipio>Porto Moniz</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Portalegre</Distrito>
+        <Municipio>Aronches</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Lousada</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Porto</Distrito>
+        <Municipio>Vila da Conde</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Sesimbra</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Setúbal</Distrito>
+        <Municipio>Sines</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Monção</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Viana do Castelo</Distrito>
+        <Municipio>Ponte da Barca</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Viseu</Distrito>
+        <Municipio>Oliveira da Frades</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+    <item>
+        <Distrito>Évora</Distrito>
+        <Municipio>Évora</Municipio>
+        <NomeCompletoList>1</NomeCompletoList>
+    </item>
+</Itens>
